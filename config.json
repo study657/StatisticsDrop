@@ -1,0 +1,32 @@
+{
+  "your_choose": 0,
+
+  "GAME": [
+    {
+      "game": "CS:GO",
+      "appId": 730,
+      "context": 0
+    },
+	  {
+      "game": "Dota 2",
+      "appId": 570,
+      "context": 1
+    },
+    {
+      "game": "TF2",
+      "appId": 440,
+      "context": 2
+    }
+  ],
+
+
+
+  "your_items": "no",
+  "items_for_search": [
+      {
+        "name_item": "Кейс «CS20»",
+        "classid": 3564864937,
+        "quantity": 0
+      }
+  ]
+}
