@@ -28,5 +28,14 @@
         "classid": 3564864937,
         "quantity": 0
       }
-  ]
+  ],
+
+
+
+  "send_mail": 0,
+  "info_about_mail": {
+      "login": "Логин",
+      "pass": "Пароль",
+      "host_mail": "Логин"
+    }
 }
